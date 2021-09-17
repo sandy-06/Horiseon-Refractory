@@ -7,4 +7,11 @@ imag= href"https://github.com/sandy-06/hr/blob/main/assets/images/2021-09-17.png
 
 
 
-imag= href"https://github.com/sandy-06/hr/blob/main/assets/images/2021-09-17%20(2).png"
+imag= href"https://github.com/sandy-06/hr/blob/main/assets/images/2021-09-17%20(2).png";
+
+
+DEPLOYED LINK
+https://sandy-06.github.io/Horiseon-Refractory/
+
+GitHub Link
+https://github.com/sandy-06/Horiseon-Refractory
